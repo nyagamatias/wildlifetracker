@@ -1,5 +1,5 @@
 body{
-     background-image: url("/images/bg.jpg");
+     background-image: url("/images/bi.jpg");
      background-size:cover;
      color:blanchedalmond;
 
@@ -23,6 +23,7 @@ nav a{
     margin:auto;
     letter-spacing:10px;
     margin-top:270px;
+    text align:center
 
 }
 
