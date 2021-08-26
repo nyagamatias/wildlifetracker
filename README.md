@@ -25,3 +25,9 @@ locations with the sightings that have occured in them.
 * CREATE TABLE rangers_sightings (id serial PRIMARY KEY,ranger_id INT,sighting_id INT);
 * CREATE TABLE sightings (id serial PRIMARY KEY,animal_id INT,ranger_id INT,location_id INT,time TIMESTAMP);
 * CREATE DATABASE wildlife_tracker_test WITH TEMPLATE wildlife_tracker;
+
+## Technologies Used
+* Java
+* Heroku
+* CSS
+* HBS
